@@ -1,0 +1,10 @@
+Shift + strza³ka lewo/prawo -> zaznaczanie pojedynczych znaków
+
+Shift + Ctrl + strza³ka lewo/prawo -> zaznaczanie ca³ych s³ów itp.
+
+Ctrl + strza³ka lewo/prawo -> przechodzenie miêdzy ca³ymi s³owami itp.
+
+Alt + strza³ka w górê/dó³ -> W Visual Studio oraz w niektórych edytorach tekstu przenosi to linijkê tekstu w górê lub w dó³
+
+Shift + Delete -> Usuwa ca³¹ linijkê tekstu na której znajduje siê kursor
+
