@@ -55,6 +55,8 @@ namespace ConsoleApplication2
                     Console.WriteLine("Tu wykona się kod który nie wpadł do żadnego warunku 'case' ");
                     break;
             }
+
+            Console.ReadKey();
         }
     }
 }
