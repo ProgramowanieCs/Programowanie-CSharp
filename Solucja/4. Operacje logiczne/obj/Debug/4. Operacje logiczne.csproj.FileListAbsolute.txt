@@ -1,0 +1,6 @@
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\bin\Debug\_4.Operacje_logiczne.exe.config
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\bin\Debug\_4.Operacje_logiczne.exe
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\bin\Debug\_4.Operacje_logiczne.pdb
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\obj\Debug\4. Operacje logiczne.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\obj\Debug\_4.Operacje_logiczne.exe
+C:\Users\Bartek\Desktop\prograwowanie\Solucja\4. Operacje logiczne\obj\Debug\_4.Operacje_logiczne.pdb
