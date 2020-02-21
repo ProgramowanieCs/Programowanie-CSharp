@@ -1,0 +1,5 @@
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\3. Program - ćwiczenia (tablice)\bin\Debug\_3.Program___ćwiczenia__tablice_.exe.config
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\3. Program - ćwiczenia (tablice)\bin\Debug\_3.Program___ćwiczenia__tablice_.exe
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\3. Program - ćwiczenia (tablice)\bin\Debug\_3.Program___ćwiczenia__tablice_.pdb
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\3. Program - ćwiczenia (tablice)\obj\Debug\_3.Program___ćwiczenia__tablice_.exe
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\3. Program - ćwiczenia (tablice)\obj\Debug\_3.Program___ćwiczenia__tablice_.pdb

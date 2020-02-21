@@ -1,0 +1,5 @@
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\2. Program - ćwiczenia\bin\Debug\_2.Program___ćwiczenia.exe.config
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\2. Program - ćwiczenia\bin\Debug\_2.Program___ćwiczenia.exe
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\2. Program - ćwiczenia\bin\Debug\_2.Program___ćwiczenia.pdb
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\2. Program - ćwiczenia\obj\Debug\_2.Program___ćwiczenia.exe
+C:\Users\mbylica\Documents\Git repos\Programowanie-CSharp\Solucja\2. Program - ćwiczenia\obj\Debug\_2.Program___ćwiczenia.pdb
