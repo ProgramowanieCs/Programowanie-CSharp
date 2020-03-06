@@ -1,0 +1,16 @@
+Program ma wypisać dla użytkownika menu na ekranie, mniej więcej takie:
+1. Wybierz jeden, aby pomnożyć
+2. Wybierz dwa, aby podzielić
+3. Wybierz trzy, aby dodać
+4. Wybierz cztery, aby odjąć
+#Naciśnij ESC, aby wyjśc z programu
+
+Po wybraniu 1 lub 2 lub 3 lub 4 pojawia się na ekranie:
+
+"Wprowadz liczbę nr. 1: "
+
+Użytkownik ma wprowadzić liczbę.
+I analogicznie na liczby 2.
+
+Jeżeli użytkownik wybierze 1, 2, 3, 4 i zatwierdzi to enterem to takie działanie na 2 liczbach, które wpisze mu się wykona i wyświetli wynik.
+Na klawisz ESC możemy wyjść z programu. Jeżeli tego nie zrobimy to działa on w kółko
